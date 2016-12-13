@@ -1,0 +1,32 @@
+html {
+  background-color: red;
+}
+
+p {
+  color: #fff;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.row {
+  display: block;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+}
+
+.col {
+  display: inline-block;
+  background-color: #fff;
+  width: 30px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+.paint {
+  background-color: #e6e6e6;
+}
